@@ -1,0 +1,16 @@
+# Ignore dataset (terlalu besar & tidak perlu di GitHub)
+DATASET/
+
+# Ignore shortcut Windows
+*.lnk
+
+# Ignore file sementara/testing
+create_dummy_model.py
+tes_prediction.py
+temp_*
+__pycache__/
+*.pyc
+
+# Optional: jika nanti ada file lain
+.DS_Store
+.vscode/
